@@ -1,6 +1,7 @@
 class Solution {
 //apple
 //Time Complexity=O(m+n)
+//Space Complexity=O(1)
     public boolean validWordAbbreviation(String word, String abbr) {
         int i=0;
         int j=0;
